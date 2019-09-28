@@ -6,10 +6,24 @@ body {
 .container {
 	width: 90%;
 }
+
 .navbar {
   margin-bottom: 20px;
 }
 
 .box {
 	border: 1px solid black;
+}
+
+.home-headline{
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 26px;
+	color: #fff;
+	text-align: center;
+	margin-top: -13px;
+}
+
+.home-headline span {
+	background-color: #231F20;
+	padding: 5px;
 }
